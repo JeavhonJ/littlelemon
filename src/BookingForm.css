@@ -1,0 +1,21 @@
+.form {
+    margin: 40px;
+    display: grid;
+    gap: 20px;
+}
+
+input, select {
+    max-width: 200px;
+}
+
+button {
+    display: inline-block;
+    width: 300px;
+}
+
+.error {
+    font-size: smaller;
+    margin: 0px;
+    margin-top: -20px;
+    color: red;;
+}
